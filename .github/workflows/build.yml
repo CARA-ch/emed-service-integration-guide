@@ -1,0 +1,39 @@
+name: Publish docs on GitHub Pages
+
+on:
+  push:
+    branches:
+      - master
+
+permissions: {}
+
+concurrency:
+  group: pages-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  build:
+    name: Deploy docs
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout master
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          fetch-depth: 0 # To access the last modified date of all files
+      
+      - name: Setup Python 3
+        uses: actions/setup-python@5fda3b95a4ea91299a34e894583c3862153e4b97 # v7.0.0
+        with:
+          cache: 'pip' # Caching pip dependencies
+          python-version: 3.x
+      
+      - name: Install mkdocs and plugins
+        run: pip install -r requirements.txt
+      
+      - name: Build and deploy
+        run: mkdocs gh-deploy --force

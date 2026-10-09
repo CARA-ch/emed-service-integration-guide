@@ -1,0 +1,128 @@
+:root {
+    --md-code-font: "SFMono-Regular", Menlo, Consolas, Monospace;
+    --md-text-font: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+
+}
+[data-md-color-scheme="default"],
+[data-md-color-scheme="slate"] {
+    --md-accent-fg-color: #1975d2!important;
+}
+* {
+    transition: color, border 300ms ease!important;
+}
+body,
+.md-tabs__link {
+    font-size: 16px;
+}
+.md-typeset {
+    font-size: 16px;
+    line-height: 1.6;
+}
+.must-support {
+    font-weight: 500;
+    color: #ed5487;
+}
+.should-support {
+    color: #6c91d5;
+    font-weight: 500;
+}
+.last-edited {
+    color: var(--md-default-fg-color--light);
+    font-size: 14px;
+}
+code {
+    line-height: 1.4;
+}
+.md-typeset h1 {
+    font-size: 42px;
+    font-weight: 300;
+}
+.md-typeset h2 {
+    counter-reset: h3;
+    font-size: 24px;
+    font-weight: 500;
+    border-bottom: 1px solid var(--md-default-fg-color--lightest);
+}
+.md-typeset h3 {
+    counter-reset: h4;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.md-header__topic:first-child,
+.md-typeset .tabbed-labels > label,
+.md-nav--lifted > .md-nav__list > .md-nav__item--active > .md-nav__link,
+.md-typeset .admonition-title {
+    font-weight: 500;
+}
+
+body[data-md-color-scheme="default"] {
+    color: #5c5962;
+}
+body[data-md-color-scheme="slate"] {
+    color: #bec0c9;
+}
+body[data-md-color-scheme="default"] h1,
+body[data-md-color-scheme="default"] h2,
+body[data-md-color-scheme="default"] h3,
+body[data-md-color-scheme="default"] h4 {
+    color: #27262b;
+}
+body[data-md-color-scheme="slate"] h1,
+body[data-md-color-scheme="slate"] h2,
+body[data-md-color-scheme="slate"] h3,
+body[data-md-color-scheme="slate"] h4 {
+    color: #e9eaee;
+}
+ul,
+ol {
+    line-height: 1.2;
+}
+.md-typeset a:not(.md-icon) {
+    border-bottom: 1px solid var(--md-default-fg-color--lightest);
+}
+.md-typeset a:hover {
+    /*color: var(--md-typeset-a-color);*/
+    border-color: var(--md-accent-fg-color);
+}
+.md-typeset li {
+    list-style: none;
+    position: relative;
+}
+.md-typeset td ul li::before {
+    position: absolute;
+    margin-left: -1.4em;
+    color: #99989a;
+    content: "•";
+}
+.md-typeset ol {
+    counter-reset: ol-counter;
+}
+.md-typeset ol li::before {
+    position: absolute;
+    left: -1.4em;
+    color: #99989a;
+    content: counter(ol-counter);
+    counter-increment: ol-counter;
+}
+.md-main__inner {
+    margin-top: 0;
+}
+body[data-md-color-scheme="default"] .md-content {
+    border: 1px solid #e6e6e6;
+    box-shadow: 0px 0px 100px 50px rgb(0 0 0 / 4%);
+}
+body[data-md-color-scheme="slate"] .md-content {
+    border: 1px solid #20212a;
+    box-shadow: 0px 0px 100px 50px #0000001a;
+}
+.md-nav {
+    font-size: 15px;
+}
+.md-nav__link--index {
+    font-size: 16px;
+    margin-bottom: 2em;
+}
+.md-nav--integrated > .md-nav__list > .md-nav__item--active .md-nav--secondary {
+    border-left: 0.05rem solid var(--md-default-fg-color--lightest)!important;
+}
