@@ -5,16 +5,14 @@
 ## Currently Deployed
 
   - dev:
-    - PMP (aggregator) v0.6.1 (deployed 2025-11-27), works with [CH EMED EPR 2.0.0](https://fhir.ch/ig/ch-emed-epr/2.0.0/index.html).
-		- Platform migration to BINT.
-    - ALPAGE v0.1.2 (deployed 22025-11-27, DB truncated)
+    - PMP (aggregator) v0.7.0 (deployed 2026-05-06), works with [CH EMED EPR 3.0.0](https://fhir.ch/ig/ch-emed-epr/3.0.0/index.html).
+    - ALPAGE v0.2.0 (deployed 2026-05-06, No DB changes)
   - int:
-    - PMP (aggregator) v0.5.2 (deployed 2025-09-05), works with [CH EMED EPR 2.0.0](https://fhir.ch/ig/ch-emed-epr/2.0.0/index.html).
-    - ALPAGE v0.1.0 (deployed 2025-05-21, DB recreated)
+    - PMP (aggregator) v0.7.0 (deployed 2026-05-06), works with [CH EMED EPR 3.0.0](https://fhir.ch/ig/ch-emed-epr/3.0.0/index.html).
+    - ALPAGE v0.2.0 (deployed 2026-05-06, No DB changes)
 
 ## Known Issues
-- Aggregator:
-	- The aggregator might accept bad ids within a treatmentplan extension. This might have implications for client traversing a PML document and relying on these ids to be good.
+No known issues
 
 ## Next Release Dates
 
@@ -22,6 +20,28 @@
 - Next aggregator release: *TBD*
 
 ## Relevant Changes
+### PMP v0.7.0
+FHIR Medication Card fix link of original representation binary in the composition section's textLink extension by adding urn prefix
+
+This version migrate Java 21 to Java 25 and updates dependencies including Husky 3.3.0 release and IPF 5.2-rc2.
+
+### PMP v0.6.6
+minor internal improvments
+
+### PMP v0.6.5
+minor internal improvments
+
+### PMP v0.6.4
+minor internal improvments
+
+### PMP v0.6.3
+Minor internal improvments
+
+### PMP v0.6.2
+FHIR Medication Card fix to link to the original representation binary in its section narrative
+
+Minor internal improvments
+
 ### PMP v0.6.1
 Bugfixes for unexepected issues encountered due to dependencies bump on 0.6.0.
 
