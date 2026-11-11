@@ -1,6 +1,6 @@
 site_name: CARA's eMedication IG
-site_url: https://qligier.github.io/cara-emed-ig/
-repo_url: https://github.com/qligier/cara-emed-ig
+site_url: https://cara-ch.github.io/emed-service-integration-guide/
+repo_url: https://github.com/CARA-ch/emed-service-integration-guide
 site_author: Quentin Ligier
 nav:
   - Getting Started: index.md
@@ -59,8 +59,9 @@ markdown_extensions:
   - pymdownx.tabbed:
       alternate_style: true
 theme:
-  name: material
+  name: materialx
   custom_dir: overrides
+  topbar_style: primary
   logo: assets/cara.svg
   icon:
     repo: fontawesome/brands/github
