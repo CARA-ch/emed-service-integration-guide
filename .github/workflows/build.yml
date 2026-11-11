@@ -32,8 +32,8 @@ jobs:
           cache: 'pip' # Caching pip dependencies
           python-version: 3.x
       
-      - name: Install mkdocs and plugins
+      - name: Install ProperDocs and plugins
         run: pip install -r requirements.txt
       
       - name: Build and deploy
-        run: mkdocs gh-deploy --force
+        run: properdocs gh-deploy --force
