@@ -13,7 +13,7 @@ CARA's eMedication service Integration Guide uses different concepts, tools and 
 
 ## Reporting Issues or Suggestions
 
-- Issues or suggestions about this guide can be reported on the [guide's GitHub](https://github.com/CARA-ch/emed-service-guide/issues).
+- Issues or suggestions about this guide can be reported on the [guide's GitHub](https://github.com/CARA-ch/emed-service-integration-guide/issues).
 - Issues or suggestions about the eMedication service can be reported [here](https://github.com/CARA-ch/pmp-issues/issues).
 - [CH EMED EPR issues](https://github.com/CARA-ch/ch-emed-epr/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc)
 

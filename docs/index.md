@@ -3,7 +3,7 @@
 !!! info
 
     This is a work in progress. You are welcome to open issues in the 
-    [GitHub repository](https://github.com/CARA-ch/emed-service-guide) for any question, mistake or missing information.
+    [GitHub repository](https://github.com/CARA-ch/emed-service-integration-guide) for any question, mistake or missing information.
 
 Welcome to the Integration Guide for the eMedication service of CARA's community. This document serves as a resource to help facilitate the retrieval of key resources for integrators.
 
