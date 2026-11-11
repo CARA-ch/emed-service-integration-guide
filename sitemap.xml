@@ -1,135 +1,168 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://qligier.github.io/cara-emed-ig/</loc>
-         <lastmod>2026-11-05</lastmod>
+        <loc>https://cara-ch.github.io/emed-service-integration-guide/</loc>
+        <lastmod>2026-11-11</lastmod>
+        <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://qligier.github.io/cara-emed-ig/other/upcoming_changes/</loc>
-         <lastmod>2026-11-05</lastmod>
+        <loc>https://cara-ch.github.io/emed-service-integration-guide/other/upcoming_changes/</loc>
+        <lastmod>2026-11-11</lastmod>
+        <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://qligier.github.io/cara-emed-ig/other/useful_links/</loc>
-         <lastmod>2026-11-05</lastmod>
+        <loc>https://cara-ch.github.io/emed-service-integration-guide/other/useful_links/</loc>
+        <lastmod>2026-11-11</lastmod>
+        <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://qligier.github.io/cara-emed-ig/references/</loc>
-         <lastmod>2026-11-05</lastmod>
+        <loc>https://cara-ch.github.io/emed-service-integration-guide/references/</loc>
+        <lastmod>2026-11-11</lastmod>
+        <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://qligier.github.io/cara-emed-ig/references/authorship_and_timestamps/</loc>
-         <lastmod>2026-11-05</lastmod>
+        <loc>https://cara-ch.github.io/emed-service-integration-guide/references/authorship_and_timestamps/</loc>
+        <lastmod>2026-11-11</lastmod>
+        <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://qligier.github.io/cara-emed-ig/references/emed/</loc>
-         <lastmod>2026-11-05</lastmod>
+        <loc>https://cara-ch.github.io/emed-service-integration-guide/references/emed/</loc>
+        <lastmod>2026-11-11</lastmod>
+        <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://qligier.github.io/cara-emed-ig/references/endpoints/</loc>
-         <lastmod>2026-11-05</lastmod>
+        <loc>https://cara-ch.github.io/emed-service-integration-guide/references/endpoints/</loc>
+        <lastmod>2026-11-11</lastmod>
+        <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://qligier.github.io/cara-emed-ig/references/oids/</loc>
-         <lastmod>2026-11-05</lastmod>
+        <loc>https://cara-ch.github.io/emed-service-integration-guide/references/oids/</loc>
+        <lastmod>2026-11-11</lastmod>
+        <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://qligier.github.io/cara-emed-ig/resources/</loc>
-         <lastmod>2026-11-05</lastmod>
+        <loc>https://cara-ch.github.io/emed-service-integration-guide/resources/</loc>
+        <lastmod>2026-11-11</lastmod>
+        <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://qligier.github.io/cara-emed-ig/resources/appc/</loc>
-         <lastmod>2026-11-05</lastmod>
+        <loc>https://cara-ch.github.io/emed-service-integration-guide/resources/appc/</loc>
+        <lastmod>2026-11-11</lastmod>
+        <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://qligier.github.io/cara-emed-ig/resources/transactions/</loc>
-         <lastmod>2026-11-05</lastmod>
+        <loc>https://cara-ch.github.io/emed-service-integration-guide/resources/transactions/</loc>
+        <lastmod>2026-11-11</lastmod>
+        <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://qligier.github.io/cara-emed-ig/resources/transactions/chatc/</loc>
-         <lastmod>2026-11-05</lastmod>
+        <loc>https://cara-ch.github.io/emed-service-integration-guide/resources/transactions/chatc/</loc>
+        <lastmod>2026-11-11</lastmod>
+        <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://qligier.github.io/cara-emed-ig/resources/transactions/chmhd1/</loc>
-         <lastmod>2026-11-05</lastmod>
+        <loc>https://cara-ch.github.io/emed-service-integration-guide/resources/transactions/chmhd1/</loc>
+        <lastmod>2026-11-11</lastmod>
+        <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://qligier.github.io/cara-emed-ig/resources/transactions/chpharm1/</loc>
-         <lastmod>2026-11-05</lastmod>
+        <loc>https://cara-ch.github.io/emed-service-integration-guide/resources/transactions/chpharm1/</loc>
+        <lastmod>2026-11-11</lastmod>
+        <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://qligier.github.io/cara-emed-ig/resources/transactions/chpharm5/</loc>
-         <lastmod>2026-11-05</lastmod>
+        <loc>https://cara-ch.github.io/emed-service-integration-guide/resources/transactions/chpharm5/</loc>
+        <lastmod>2026-11-11</lastmod>
+        <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://qligier.github.io/cara-emed-ig/resources/transactions/iti104/</loc>
-         <lastmod>2026-11-05</lastmod>
+        <loc>https://cara-ch.github.io/emed-service-integration-guide/resources/transactions/iti104/</loc>
+        <lastmod>2026-11-11</lastmod>
+        <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://qligier.github.io/cara-emed-ig/resources/transactions/iti18/</loc>
-         <lastmod>2026-11-05</lastmod>
+        <loc>https://cara-ch.github.io/emed-service-integration-guide/resources/transactions/iti18/</loc>
+        <lastmod>2026-11-11</lastmod>
+        <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://qligier.github.io/cara-emed-ig/resources/transactions/iti20/</loc>
-         <lastmod>2026-11-05</lastmod>
+        <loc>https://cara-ch.github.io/emed-service-integration-guide/resources/transactions/iti20/</loc>
+        <lastmod>2026-11-11</lastmod>
+        <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://qligier.github.io/cara-emed-ig/resources/transactions/iti41/</loc>
-         <lastmod>2026-11-05</lastmod>
+        <loc>https://cara-ch.github.io/emed-service-integration-guide/resources/transactions/iti41/</loc>
+        <lastmod>2026-11-11</lastmod>
+        <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://qligier.github.io/cara-emed-ig/resources/transactions/iti43/</loc>
-         <lastmod>2026-11-05</lastmod>
+        <loc>https://cara-ch.github.io/emed-service-integration-guide/resources/transactions/iti43/</loc>
+        <lastmod>2026-11-11</lastmod>
+        <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://qligier.github.io/cara-emed-ig/resources/transactions/iti44/</loc>
-         <lastmod>2026-11-05</lastmod>
+        <loc>https://cara-ch.github.io/emed-service-integration-guide/resources/transactions/iti44/</loc>
+        <lastmod>2026-11-11</lastmod>
+        <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://qligier.github.io/cara-emed-ig/resources/transactions/iti45/</loc>
-         <lastmod>2026-11-05</lastmod>
+        <loc>https://cara-ch.github.io/emed-service-integration-guide/resources/transactions/iti45/</loc>
+        <lastmod>2026-11-11</lastmod>
+        <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://qligier.github.io/cara-emed-ig/resources/transactions/iti57/</loc>
-         <lastmod>2026-11-05</lastmod>
+        <loc>https://cara-ch.github.io/emed-service-integration-guide/resources/transactions/iti57/</loc>
+        <lastmod>2026-11-11</lastmod>
+        <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://qligier.github.io/cara-emed-ig/resources/transactions/iti65/</loc>
-         <lastmod>2026-11-05</lastmod>
+        <loc>https://cara-ch.github.io/emed-service-integration-guide/resources/transactions/iti65/</loc>
+        <lastmod>2026-11-11</lastmod>
+        <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://qligier.github.io/cara-emed-ig/resources/transactions/iti67/</loc>
-         <lastmod>2026-11-05</lastmod>
+        <loc>https://cara-ch.github.io/emed-service-integration-guide/resources/transactions/iti67/</loc>
+        <lastmod>2026-11-11</lastmod>
+        <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://qligier.github.io/cara-emed-ig/resources/transactions/iti68/</loc>
-         <lastmod>2026-11-05</lastmod>
+        <loc>https://cara-ch.github.io/emed-service-integration-guide/resources/transactions/iti68/</loc>
+        <lastmod>2026-11-11</lastmod>
+        <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://qligier.github.io/cara-emed-ig/resources/transactions/iti83/</loc>
-         <lastmod>2026-11-05</lastmod>
+        <loc>https://cara-ch.github.io/emed-service-integration-guide/resources/transactions/iti83/</loc>
+        <lastmod>2026-11-11</lastmod>
+        <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://qligier.github.io/cara-emed-ig/resources/transactions/auth/</loc>
-         <lastmod>2026-11-05</lastmod>
+        <loc>https://cara-ch.github.io/emed-service-integration-guide/resources/transactions/auth/</loc>
+        <lastmod>2026-11-11</lastmod>
+        <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://qligier.github.io/cara-emed-ig/resources/transactions/date_processing/</loc>
-         <lastmod>2026-11-05</lastmod>
+        <loc>https://cara-ch.github.io/emed-service-integration-guide/resources/transactions/date_processing/</loc>
+        <lastmod>2026-11-11</lastmod>
+        <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://qligier.github.io/cara-emed-ig/resources/transactions/documents/</loc>
-         <lastmod>2026-11-05</lastmod>
+        <loc>https://cara-ch.github.io/emed-service-integration-guide/resources/transactions/documents/</loc>
+        <lastmod>2026-11-11</lastmod>
+        <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://qligier.github.io/cara-emed-ig/resources/workflows/</loc>
-         <lastmod>2026-11-05</lastmod>
+        <loc>https://cara-ch.github.io/emed-service-integration-guide/resources/workflows/</loc>
+        <lastmod>2026-11-11</lastmod>
+        <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://qligier.github.io/cara-emed-ig/resources/workflows/aggregation/</loc>
-         <lastmod>2026-11-05</lastmod>
+        <loc>https://cara-ch.github.io/emed-service-integration-guide/resources/workflows/aggregation/</loc>
+        <lastmod>2026-11-11</lastmod>
+        <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://qligier.github.io/cara-emed-ig/resources/workflows/situationalworkflows/</loc>
-         <lastmod>2026-11-05</lastmod>
+        <loc>https://cara-ch.github.io/emed-service-integration-guide/resources/workflows/situationalworkflows/</loc>
+        <lastmod>2026-11-11</lastmod>
+        <changefreq>daily</changefreq>
     </url>
 </urlset>
